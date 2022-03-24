@@ -2,9 +2,18 @@ body {
     background: rgb(231, 186, 252);
     text-align: center;
 }
-.marvin img{
+#marvin img{
     height: 40%;
     width: 40%;
-    object-fit: contain;
     align-items: center;
 }
+.row .column{
+    float: left;
+    height: 32%;
+    width: 32%;
+    padding: 2px;
+    display: block;
+ }
+ p {
+     text-align: center;
+ }
