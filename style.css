@@ -3,16 +3,21 @@ body {
     text-align: center;
 }
 #marvin img{
-    height: 40%;
-    width: 40%;
+    height: 32%;
+    width: 32%;
     align-items: center;
+}
+p {
+    text-align: center;
 }
 .row .column{
     float: left;
     height: 32%;
     width: 32%;
-    padding: 2px;
+    padding: 4px;
     display: block;
+    padding-bottom: 30px;
+    padding-right: 10px;
  }
  table, th, td {
     border: 1px solid black;
@@ -23,3 +28,18 @@ body {
     padding-top: 5px;
     padding-bottom: 5px;
   }
+  #threatening img{
+    height: 28%;
+    width: 28%;
+    align-items: center;
+  }
+  .feedingTable {
+      padding-bottom: 20px;
+  }
+  #feedhim img{
+    height: 28%;
+    width: 28%;
+    float: left;
+    display: block;
+    padding-left: 30px;
+}
