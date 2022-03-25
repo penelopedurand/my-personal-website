@@ -41,5 +41,20 @@ p {
     width: 28%;
     float: left;
     display: block;
-    padding-left: 30px;
-}
+    padding-left: 120px;
+    padding-bottom: 40px;
+  }
+  #wetfood img{
+      padding-top: 15%;
+      height: 14%;
+      width: 14%;
+      float: right;
+      padding-right: 100px;
+  }
+  #crunchies img{
+    padding-top: 12%;
+    height: 14%;
+    width: 14%;
+    float: right;
+    padding-right: 150px;
+  }
