@@ -19,8 +19,21 @@ p {
     padding-bottom: 30px;
     padding-right: 10px;
  }
+ #youtube h4{
+     text-align: left;
+     padding-left: 300px;
+     padding-top: 50px;
+     padding-bottom: 0px;
+ }
+ iframe {
+    float: left;
+    padding-left: 150px;
+    position: static;
+}
  table, th, td {
     border: 1px solid black;
+    margin-left: auto;
+    margin-right: 220px;
   }
   td {
     padding-left: 10px;
@@ -28,31 +41,38 @@ p {
     padding-top: 5px;
     padding-bottom: 5px;
   }
+  h4 {
+      text-align: right;
+      padding-right: 295px;
+  }
   #threatening img{
     height: 28%;
     width: 28%;
     align-items: center;
   }
   .feedingTable {
-      padding-bottom: 20px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      padding-right: 46px;
   }
   #feedhim img{
     height: 28%;
     width: 28%;
     float: left;
-    display: block;
-    padding-left: 120px;
+    position: left;
+    padding-left: 0px;
+    padding-top: 100px;
     padding-bottom: 40px;
   }
   #wetfood img{
-      padding-top: 15%;
+      padding-top: 10%;
       height: 14%;
       width: 14%;
       float: right;
-      padding-right: 100px;
+      padding-right: 150px;
   }
   #crunchies img{
-    padding-top: 12%;
+    padding-top: 10%;
     height: 14%;
     width: 14%;
     float: right;
