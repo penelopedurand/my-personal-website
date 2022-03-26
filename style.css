@@ -50,6 +50,14 @@ p {
     width: 28%;
     align-items: center;
   }
+  #instructions {
+      text-align: center;
+      list-style-position: inside;
+  }
+  #instructions h4{
+      text-align: center;
+      padding-left: 300px;
+  }
   .feedingTable {
       padding-bottom: 10px;
       padding-top: 10px;
@@ -59,22 +67,22 @@ p {
     height: 28%;
     width: 28%;
     float: left;
-    position: left;
-    padding-left: 0px;
-    padding-top: 100px;
-    padding-bottom: 40px;
+    padding-top: 80px;
+    padding-left: 120px;
   }
   #wetfood img{
-      padding-top: 10%;
       height: 14%;
       width: 14%;
       float: right;
-      padding-right: 150px;
+      padding-right: 250px;
+      padding-top: 250px;
   }
-  #crunchies img{
-    padding-top: 10%;
-    height: 14%;
-    width: 14%;
-    float: right;
-    padding-right: 150px;
+   div.satisfied {
+    padding-top: 10px;
+    display: inline-block;
+    text-align: center;
+   }
+  .satisfied img{
+    height: 30%;
+    width: 30%;
   }
